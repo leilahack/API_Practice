@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/featureFiles",
         glue = "CRISP/stepDefinitions",
         dryRun = false,
-        tags = "@NTC2"
+        tags = ""
 
 
 )
